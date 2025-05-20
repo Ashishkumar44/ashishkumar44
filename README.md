@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Ashish Kumar
 
-<!--
-**Ashishkumar44/ashishkumar44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently a 3rd-year B.Tech Computer Science student at [Mangalmay Institute of Engineering and Technology, Greater Noida](https://www.mangalmayinstitute.com/), affiliated with AKTU, Lucknow.
 
-Here are some ideas to get you started:
+💻 Passionate about web development, software engineering, and building impactful projects. Always learning and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Project Highlight:**
+- **[Vibe Check App](https://vibe-check-app-eight.vercel.app/)** – A fun and interactive application to check your "vibe"! Deployed on Vercel.
+
+📫 **Let's Connect:**
+- [LinkedIn](#) <!-- Add your actual LinkedIn URL -->
+- [Twitter](#) <!-- Optional -->
+- [Portfolio](#) <!-- Optional if you have a personal website or portfolio -->
+
+🛠️ **Languages & Tools I Use:**
+- HTML, CSS, JavaScript
+- React, Node.js
+- Git & GitHub
+- Vercel for deployment
+
+---
+
+Thanks for visiting my profile! 😊
