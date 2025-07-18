@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ashish Kumar
 
-🎓 I'm currently a 3rd-year B.Tech Computer Science student at [Mangalmay Institute of Engineering and Technology, Greater Noida](https://www.mangalmayinstitute.com/), affiliated with AKTU, Lucknow.
+🎓 I'm currently a 4rd-year B.Tech Computer Science student at [Mangalmay Institute of Engineering and Technology, Greater Noida](https://www.mangalmayinstitute.com/), affiliated with AKTU, Lucknow.
 
 💻 Passionate about web development, software engineering, and building impactful projects. Always learning and exploring new technologies.
 
