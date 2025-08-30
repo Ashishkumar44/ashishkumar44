@@ -8,13 +8,14 @@
 - **[Vibe Check App](https://vibe-check-app-eight.vercel.app/)** – A fun and interactive application to check your "vibe"! Deployed on Vercel.
 
 📫 **Let's Connect:**
-- [LinkedIn](#) <!-- Add your actual LinkedIn URL -->
+- [LinkedIn](#) <!https://www.linkedin.com/in/ashish-kumar44/>
 - [Twitter](#) <!-- Optional -->
 - [Portfolio](#) <!-- Optional if you have a personal website or portfolio -->
 
 🛠️ **Languages & Tools I Use:**
 - HTML, CSS, JavaScript
-- React, Node.js
+- React, Node.js / Express
+- Java
 - Git & GitHub
 - Vercel for deployment
 
