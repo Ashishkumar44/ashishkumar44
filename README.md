@@ -13,8 +13,7 @@
 
 📫 **Let's Connect:**
 - [LinkedIn](#) <!https://www.linkedin.com/in/ashish-kumar44/>
-- [Twitter](#) <!-- Optional -->
-- [Portfolio](#) <!-- Optional if you have a personal website or portfolio -->
+- [Portfolio](#) <!https://ashishkumarportfolio-murex.vercel.app/) -->
 
 🛠️ **Languages & Tools I Use:**
 - HTML, CSS, JavaScript
