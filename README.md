@@ -14,6 +14,7 @@
 📫 **Let's Connect:**
 - [LinkedIn](#) <!https://www.linkedin.com/in/ashish-kumar44/>
 - [Portfolio](#) <!https://ashishkumarportfolio-murex.vercel.app/) -->
+- [Email](#) <kumarashishy80@gmail.com) -->
 
 🛠️ **Languages & Tools I Use:**
 - HTML, CSS, JavaScript
