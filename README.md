@@ -1,33 +1,45 @@
-# 👋 Hi, I'm Ashish Kumar
+# Ashish Kumar · Full Stack MERN Developer
 
-🎓 I'm currently a 4th - year B.Tech Computer Science student at [Mangalmay Institute of Engineering and Technology, Greater Noida](https://www.mangalmayinstitute.com/), affiliated with AKTU, Lucknow.
+<p align="center"><strong>Bold, animated GitHub profile · self-contained SVGs · no external SVG asset requests</strong></p>
 
-💻 Passionate about web development, software engineering, and building impactful projects. Always learning and exploring new technologies.
+<img src="assets/hero.svg?v=1" alt="Ashish Kumar profile hero" width="100%" />
 
-🚀 **Project Highlight:**
-- **[Vibe Check App](https://vibe-check-app-eight.vercel.app/)** – A fun and interactive application to check your "vibe"! Deployed on Vercel.
-- 
-- **[Prakriti-Seva](https://prakriti-seva-the-eco-dharmik-platf.vercel.app/)** – Prakriti Seva is a waste-management–based web platform designed to promote responsible waste disposal, recycling, and environmental awareness through a blend of modern technology and dharmic ecological values. Deployed on Vercel.
-- 
-- **[Magma Clone ](https://magmaclone-ivory.vercel.app/)** – Magma Clone is a front-end replica of the Magma Web3 platform landing page. It demonstrates the core design and user interface of a modern blockchain-powered real estate solution that aims to transform physical buildings into intelligent digital assets. Deployed on Vercel.
+<img src="assets/about-life.svg?v=1" alt="About Ashish Kumar and interests" width="100%" />
 
-📫 **Let's Connect:**
-- [LinkedIn](#) <!https://www.linkedin.com/in/ashish-kumar44/>
-- [Portfolio](#) <!https://ashishkumarportfolio-murex.vercel.app/) -->
-- [Email](#) <kumarashishy80@gmail.com) -->
+<img src="assets/stack.svg?v=1" alt="Ashish Kumar technology stack" width="100%" />
 
-🛠️ **Languages & Tools I Use:**
-- HTML, CSS, JavaScript
-- React.js, Node.js , Express.js
-- mongoDB
-- SQL/ MySQL
-- Tailwind CSS
-- Bootstrap
-- JWT/AWS
-- Java
-- Git & GitHub
-- Vercel for deployment
+<img src="assets/id-dashboard.svg?v=1" alt="Ashish Kumar verified GitHub snapshot" width="100%" />
+
+## Featured project
+
+| Project | What it is | Live |
+|---|---|---|
+| **Prakriti Seva** | Full-stack eco-friendly waste management platform with 12+ REST APIs, JWT role-based auth and Razorpay payments; basis of my Springer LNNS (ICSAS-2026) paper. | [Open the project](https://prakriti-seva-the-eco-dharmik-platf.vercel.app/) |
+
+<img src="assets/connect.svg?v=1" alt="Ashish Kumar pointing toward connection cards" width="100%" />
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/ashish-kumar44/)
+- [GitHub](https://github.com/Ashishkumar44)
+- [Prakriti Seva](https://prakriti-seva-the-eco-dharmik-platf.vercel.app/)
 
 ---
 
-Thanks for visiting my profile! 😊
+### Roles
+
+Full Stack Developer · MERN Developer · Frontend Developer · Backend Developer · Software Developer · Research Author
+
+### Stack
+
+React.js · Node.js · Express.js · MongoDB · Next.js · TypeScript · Redis · Docker · Socket.io · PostgreSQL · Tailwind CSS · JWT
+
+### Languages & core
+
+JavaScript · Python · Data Structure · OOPs
+
+### Interests
+
+Fitness · Nutrition · Travel
+
+> GitHub metrics shown in the ID dashboard are a dated snapshot observed from the public profile on **06 Oct 2026**. Unknown or unverified counts are intentionally omitted.

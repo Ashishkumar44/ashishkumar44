@@ -1,0 +1,4 @@
+Fonts: DejaVu Sans and DejaVu Sans Mono, converted locally from installed TTF files to WOFF2 for embedding.
+Portraits: id.png and right_pointing.png are the user-supplied files, embedded verbatim in the SVGs.
+Brand marks: LinkedIn mark is a simplified inline glyph based on the public LinkedIn wordmark concept; GitHub is represented with a generic octocat-style-free symbol to avoid external assets. No network-loaded assets are used.
+GitHub data snapshot: public Ashishkumar44 profile observed 06 Oct 2026 via GitHub web profile.
