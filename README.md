@@ -1,6 +1,6 @@
-# Ashish Kumar · Full Stack MERN Developer
+# Ashish Kumar · Full Stack MERN Developer | Frontend Developer | Backend Developer | Software Developer
 
-<p align="center"><strong>Bold, animated GitHub profile · self-contained SVGs · no external SVG asset requests</strong></p>
+
 
 <img src="assets/hero.svg?v=1" alt="Ashish Kumar profile hero" width="100%" />
 
